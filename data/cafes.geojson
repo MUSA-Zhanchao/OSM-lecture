@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "cafes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 274217596, "name": "Starbucks", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.1922885, 39.9530145 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 655417201, "name": "Saxbys", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.203052, 39.952879 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 2253188240, "name": "Top Hat Coffee Lounge", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.1870879, 39.9523299 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 2677590445, "name": "Saxbys", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.1880008, 39.9549796 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 7002579252, "name": "Starbucks", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.1993841, 39.9524696 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 9995231386, "name": "Tea-Do", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.1999469, 39.9546922 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 10682285034, "name": "The Board and Brew", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.1893598, 39.9539238 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 11258942554, "name": "Corner Bakery", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.1975935, 39.9568177 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 12217246245, "name": "Boba King", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.1883206, 39.9537692 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 12229810853, "name": "Kung Fu Tea", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.1880154, 39.9560524 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 12230309791, "name": "Green Line Cafe", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.1948934, 39.9593674 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 12269851885, "name": "Gong Cha", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.2015658, 39.9542765 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 13095168325, "name": "Molly Tea", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.197577, 39.954891 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 13095386334, "name": "Luck You", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.1965819, 39.9602601 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 13588696135, "name": "Haraz Coffee House", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.19236, 39.954566 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 13588721037, "name": "Starbucks", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.1867545, 39.9554489 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 13598690706, "name": "t.uni", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.1926401, 39.9532026 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 13685117291, "name": "Shibam Coffee", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.196631, 39.9599189 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 13728523209, "name": "Lulu", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -75.2022487, 39.956312 ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 255683893, "name": "Saxbys - Drexel", "amenity": "cafe" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.1909288, 39.9574956 ], [ -75.1909398, 39.9574402 ], [ -75.1909222, 39.9574382 ], [ -75.1909328, 39.9573849 ], [ -75.1905816, 39.9573439 ], [ -75.1905711, 39.9573967 ], [ -75.1905519, 39.9573967 ], [ -75.1905422, 39.9574455 ], [ -75.1907125, 39.9574653 ], [ -75.1907084, 39.9574858 ], [ -75.1907541, 39.9574911 ], [ -75.1907572, 39.9574755 ], [ -75.1909288, 39.9574956 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 349279311, "name": "Madis Coffee Roasters", "amenity": "cafe" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.1933344, 39.9585463 ], [ -75.1932462, 39.9585005 ], [ -75.1932094, 39.9584812 ], [ -75.1931092, 39.9585912 ], [ -75.193073, 39.9586311 ], [ -75.1931137, 39.9586288 ], [ -75.1932602, 39.9586262 ], [ -75.1933344, 39.9585463 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 369570963, "name": "Avril 50", "amenity": "cafe" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.1925315, 39.9535751 ], [ -75.1924817, 39.9535692 ], [ -75.1924961, 39.9535023 ], [ -75.1925016, 39.9535027 ], [ -75.1925262, 39.9533925 ], [ -75.1925671, 39.9533976 ], [ -75.1925315, 39.9535751 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 748793573, "name": "Starbucks", "amenity": "cafe" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.2005207, 39.9539668 ], [ -75.2004617, 39.9542425 ], [ -75.2003336, 39.9542265 ], [ -75.2003366, 39.954212 ], [ -75.2002766, 39.9542047 ], [ -75.2003321, 39.953935 ], [ -75.200504, 39.9539546 ], [ -75.2005022, 39.9539645 ], [ -75.2005207, 39.9539668 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 1125503903, "name": "Rowhome Coffee", "amenity": "cafe" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.1826312, 39.9476846 ], [ -75.1825871, 39.9476796 ], [ -75.1825964, 39.9476289 ], [ -75.1825765, 39.9476265 ], [ -75.1825869, 39.9475789 ], [ -75.1825956, 39.94758 ], [ -75.1825998, 39.9475595 ], [ -75.1826416, 39.9475646 ], [ -75.1826324, 39.947609 ], [ -75.1826491, 39.947611 ], [ -75.1826312, 39.9476846 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 1311778843, "name": "Disguiser Game Lounge", "amenity": "cafe" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.1941573, 39.9591781 ], [ -75.1940068, 39.9591017 ], [ -75.1941342, 39.9589596 ], [ -75.1942289, 39.9590088 ], [ -75.1942811, 39.959036 ], [ -75.1941573, 39.9591781 ] ] ] } }
+]
+}
