@@ -1,6 +1,7 @@
 # OSM Lecture
 
 Author: Zhanchao Yang <br>
+Class Instructor: Dr. Xiaojiang Li <br>
 Oct 8, 2026
 
 Lecture materials for **MUSA-5500 · Geospatial Data Science in Python, Week 8**: OpenStreetMap, street networks, and network accessibility with Pandana.
