@@ -3,7 +3,7 @@
 Author: Zhanchao Yang <br>
 Oct 8, 2026
 
-Guest lecture materials for **MUSA-5500 · Geospatial Data Science in Python, Week 8**: OpenStreetMap, street networks, and network accessibility with Pandana.
+Lecture materials for **MUSA-5500 · Geospatial Data Science in Python, Week 8**: OpenStreetMap, street networks, and network accessibility with Pandana.
 
 The class has two parts:
 
