@@ -1,4 +1,4 @@
-# python-osm-guest-lecture
+# OSM Lecture
 
 Author: Zhanchao Yang <br>
 Oct 8, 2026
